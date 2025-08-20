@@ -1,6 +1,6 @@
 # ✍️ Quill & Coin
 
-A decentralized publishing platform built on the Internet Computer (ICP) where writers can publish articles and readers can reward authors with ICP tokens.
+Quill & Coin is an innovative decentralized application (dApp) built on the Internet Computer Protocol (ICP), designed to empower writers and creators. It seamlessly blends content creation with direct financial appreciation, leveraging blockchain technology to ensure true data ownership and a censorship-resistant creator economy.
 
 ## 🌟 Features
 
